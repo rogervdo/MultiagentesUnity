@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba5ae08c21bfe144085209a98e24059c
+labels:
+- road
+timeCreated: 1434205831
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Prefabs/TL_StraightRoad2x.prefab
+  uploadId: 263063

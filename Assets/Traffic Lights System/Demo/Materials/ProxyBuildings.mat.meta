@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59243a7e16cf36f42836ef3b18863042
+timeCreated: 1435009340
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Demo/Materials/ProxyBuildings.mat
+  uploadId: 263063

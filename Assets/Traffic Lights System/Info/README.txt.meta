@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a43548c6946ee8244ba5223858b316f1
+timeCreated: 1535087484
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Info/README.txt
+  uploadId: 263063

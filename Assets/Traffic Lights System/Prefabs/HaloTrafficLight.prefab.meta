@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4a8ac1688bd6df1409bbf833011fb2e5
+labels:
+- trafficlight
+timeCreated: 1433708587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Prefabs/HaloTrafficLight.prefab
+  uploadId: 263063

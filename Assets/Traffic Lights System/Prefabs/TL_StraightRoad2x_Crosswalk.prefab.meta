@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fa708ba5667dcf140a7abfa0b831d59a
+labels:
+- road
+timeCreated: 1434577316
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Prefabs/TL_StraightRoad2x_Crosswalk.prefab
+  uploadId: 263063

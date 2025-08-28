@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: eed069e4ca63a2f48a6b1ab371947115
+timeCreated: 1434780294
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Demo/Scripts/TL_Demo.cs
+  uploadId: 263063

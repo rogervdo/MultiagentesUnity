@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 12e4450028433344a81a6359e525182e
+labels:
+- post
+timeCreated: 1434199914
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Prefabs/TL_PostWithLights_Diag.prefab
+  uploadId: 263063

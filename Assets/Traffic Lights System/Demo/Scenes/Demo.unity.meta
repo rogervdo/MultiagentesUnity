@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a167113aad48c49498d5b6695f3efffe
+timeCreated: 1433105210
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Demo/Scenes/Demo.unity
+  uploadId: 263063
